@@ -1,0 +1,6 @@
+{
+  "name": "Syrma SGS – Machine Breakdown Monitoring System",
+  "description": "An industrial-grade dashboard for tracking machine breakdowns, managing master records, scanning QR codes, and automatically calculating live MTTR and MTBF metrics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
